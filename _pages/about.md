@@ -9,8 +9,8 @@ redirect_from:
 
 
 
-Highlight
-======
+# Highlight
+# ======
 
 
 Bio
@@ -22,10 +22,10 @@ Resume
 
 
 
-News
-======
+# News
+# ======
 
 
 
-Challenges
-======
+# Challenges
+# ======

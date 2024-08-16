@@ -6,7 +6,7 @@ permalink: /projects/why_anomalous/
 ---
 
 <span style="color:rgba(82,173,200,255)"> **Keywords** </span>\
-"Anomaly Detection", "Consumer Behavior Analysis", "Unsupervised Learning", "K-Nearest Neighbors (KNN)", "Explainability", Neuralization - propagation framework, Layer-wise relevance propagation, soft-min pooling, reproducibility, PCA* \
+"Anomaly Detection", "Consumer Behavior Analysis", "Unsupervised Learning", "K-Nearest Neighbors (KNN)", "Explainability", "Neuralization - propagation framework", "Layer-wise relevance propagation", "soft-min pooling", "reproducibility", "PCA" \
 <span style="color:rgba(82,173,200,255)">**Objective**</span>\
 *Outlier detection analysis project to identify anomalous consumer behavior based on their spending patterns. The chosen approach is powered by an unsupervised K-Nearest Neighbors (KNN) model with a soft-min distance metric, ensuring accurate detection of outliers. The model offers robust explainability through feature-based explanations, providing insights into the factors driving these anomalies.*\
 <span style="color:rgba(82,173,200,255)"> **Links** </span>

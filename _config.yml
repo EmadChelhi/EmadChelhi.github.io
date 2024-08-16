@@ -21,7 +21,7 @@ repository               : "emadchelhi/emadchelhi.github.io" # GitHub repository
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/foto_lkdIn.png"
+  avatar           : "/Users/emadchelhi/Desktop/git_repos/emadchelhi.github.io/images/foto_lkdIn.png"
   name             : "Emad Chelhi"
   pronouns         : # example: "she/her"  
   bio              : "Student at University of Pisa, MSc Data Science"

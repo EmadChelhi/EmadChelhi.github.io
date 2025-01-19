@@ -14,6 +14,10 @@ Deployed using streamlit.*\
 [<img src="/images/GitHub.png" alt="GitHub" width="37.5" height="12.5" />](https://github.com/emadchelhi/Why-anomalous) [<img src="/images/report_icone.png" alt="Report" width="37.5" height="12.5" />](https://drive.google.com/file/d/1z8tgu2ueH8BaefzG8rIVMLrWKPW4sHe4/view?usp=sharing) [<img src="/images/deploy_logo.png" alt="Deployment" width="37.5" height="12.5" />](https://why-anomalous.streamlit.app/)
 <span style="color:rgba(82,173,200,255)"> </span>
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%; height:auto;">
-  <iframe src="https://drive.google.com/file/d/1xzF9DuRJ4wKKigAXc4vahaFw8Bx3uhIB/view?usp=share_link" frameborder="0" allowfullscreen 
-          style="position:absolute; top:0; left:0; width:100%; height:100%;"></iframe>
+  <iframe 
+      src="https://drive.google.com/file/d/1xzF9DuRJ4wKKigAXc4vahaFw8Bx3uhIB/preview" 
+      frameborder="0" 
+      allowfullscreen 
+      style="position:absolute; top:0; left:0; width:100%; height:100%;">
+  </iframe>
 </div>
